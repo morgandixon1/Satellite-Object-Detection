@@ -1,0 +1,24 @@
+# Deep Learning & Machine Learning
+tensorflow>=2.10.0
+scikit-learn>=1.0.2
+
+# Image Processing
+opencv-python>=4.7.0
+Pillow>=9.3.0
+
+# Scientific Computing
+numpy>=1.23.0
+matplotlib>=3.6.0
+
+# HTTP Requests
+requests>=2.28.0
+
+# Core Python packages included in standard library, no need to specify:
+# - json
+# - math
+# - time
+# - os
+# - pathlib
+# - io
+# - traceback
+# - random
