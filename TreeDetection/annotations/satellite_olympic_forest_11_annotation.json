@@ -1,0 +1,16 @@
+{
+  "points": [],
+  "radii": [],
+  "image_shape": [
+    1280,
+    1280
+  ],
+  "metadata": {
+    "base_radius": 6,
+    "min_radius": 4,
+    "max_radius_multiplier": 1.4,
+    "timestamp": "20241121_232229",
+    "total_points": 0,
+    "image_name": "satellite_olympic_forest_11.png"
+  }
+}

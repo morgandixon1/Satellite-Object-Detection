@@ -1,0 +1,27 @@
+{
+  "image_name": "satellite_everett_25.png",
+  "image_shape": [
+    1280,
+    1280
+  ],
+  "points": [
+    {
+      "y": 1247,
+      "x": 418,
+      "radius": 11,
+      "timestamp": "20241121_212017"
+    },
+    {
+      "y": 1230,
+      "x": 901,
+      "radius": 8,
+      "timestamp": "20241121_212151"
+    },
+    {
+      "y": 1230,
+      "x": 935,
+      "radius": 8,
+      "timestamp": "20241121_212151"
+    }
+  ]
+}

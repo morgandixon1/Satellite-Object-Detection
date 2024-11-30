@@ -1,0 +1,15 @@
+{
+  "image_name": "satellite_edmonds_waterfront_15.png",
+  "image_shape": [
+    1280,
+    1280
+  ],
+  "points": [
+    {
+      "y": 443,
+      "x": 1025,
+      "radius": 9,
+      "timestamp": "20241129_144646"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "image_name": "satellite_bellevue_2.png",
+  "image_shape": [
+    1280,
+    1280
+  ],
+  "points": [
+    {
+      "y": 248,
+      "x": 230,
+      "radius": 11,
+      "timestamp": "20241121_212705"
+    }
+  ]
+}
